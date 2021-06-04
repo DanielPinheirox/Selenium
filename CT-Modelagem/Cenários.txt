@@ -1,0 +1,76 @@
+Cenário 1: 
+
+Realizar uma alteração nos dados Cadastrais do Usuário
+
+Pré-Requisito: 
+
+Possuir um Usuário Valido com as seguintes informações: 
+
+(Nome-Sobrenome-Email-Universidade-Sexo-Profissão-Idade-Endereço)
+
+Modelagem: 
+
+Step 1 - Na tela Boas Vindas, clicar na Lista de Funcionalidade, ao lado superior Esquerdo.
+
+Resultado 1 - Será apresentado uma Lista de todas as opcoes disponiveis.
+
+Step 2 - Em Listas disponiveis, clicar na opção Lista de Usuários.
+
+Resultado 2 - Será apresentado a tela de listagem de Usuários. 
+
+Step 3 - Clicar no botão de editar, e preencher com informações atualizadas, por ultimo clicar no
+botão de confirmar.
+
+Resultado 3 - Será apresentado uma pagina com os dados, após preencher corretamente,
+será apresentado uma mensagem de <Seu Usuário foi Atualizado!> com as novas informações preenchidas. 
+
+
+Cenário 2:
+
+Consultar Dados Cadastrais
+
+Pré-Requisito:
+
+Possuir um Usuário disponivel com todas informações preenchidas.
+Sendo elas (Nome-Sobrenome-Email-Universidade-Sexo-Profissão-Idade-Endereço).
+
+Modelagem: 
+
+Step 1 - Na tela Boas Vindas, clicar na Lista de Funcionalidade, ao lado superior Esquerdo.
+
+Resultado 1 - Será apresentado uma Lista de todas as opcoes disponiveis.
+
+Step 2 - Em Listas disponiveis, clicar na opção Lista de Usuários.
+
+Resultado 2 - Será apresentado a tela de listagem de Usuários. 
+
+Step 3 - Clicar no botão de consultar e conferir as informações do usuário. 
+
+Resultado 3 - Será apresentado uma pagina com os dados do usuários
+
+Cenário 3:
+
+Consultar o botão submit
+
+Pré-Requisito:
+
+Ter um botão Submmit disponivel.
+
+Modelagem: 
+
+Step 1 - Na tela Boas Vindas, clicar na Busca de Elementos, ao lado superior Esquerdo.
+
+Resultado 1 - Será apresentado uma Lista de todas as opcoes disponiveis.
+
+Step 2 - Em Listas disponiveis, clicar na opção Botões.
+
+Resultado 2 - Será apresentado a tela de Botões disponiveis. 
+
+Step 3 - Clicar no Botão Submmit.
+
+Resultado 3 - Será apresentado um texto <Você Clicou no Botão!>
+
+
+
+
+ 
